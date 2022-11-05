@@ -1,6 +1,6 @@
-<h1 align="left">Seja bem vindo(a),<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Mustafa Eideh</h1>
+<h1 align="left">Seja bem vindo(a).<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Eu sou o Mustafa Eideh</h1>
 
-<p>Muito prazer, sejam bem vindo(a), meu nome é Mustafa Musa Hussein Eideh, tenho 19 anos e curso a faculdade de Ciência da Computação, estou estudando mais sobre as linguagens de Javascript e Java. Com ferramentas de NodeJs para execução e NetBeans para Java, busco ter amplo acesso aos meus sistemas e trazer novas aplicações com estudos, afim de obter diversos conhecimentos na área de Full-Stack futuramente.</p>
+<p>Muito prazer, seja bem vindo(a), meu nome é Mustafa Musa Hussein Eideh, tenho 19 anos e curso a faculdade de Ciência da Computação, estou estudando mais sobre as linguagens de Javascript e Java. Busco ter amplo acesso aos meus sistemas e trazer novas aplicações com estudos, afim de obter diversos conhecimentos na área de Full-Stack futuramente.</p>
 
 - 🔥  Computer Science Student;
 
