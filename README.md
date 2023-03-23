@@ -4,7 +4,7 @@
 
 - 🔥  Computer Science Student;
 
-- 🔭 Study at São Judas;
+- 🔭 Study at Cruzeiro do Sul;
 
 - ▶️ I like to learn about programming projects and study some languages;
 
