@@ -6,7 +6,7 @@
 
 - 🔭 Study at Cruzeiro do Sul;
 
-- ▶️ I like to learn about programming projects and study some languages;
+- ▶️ I enjoy learning about analytics, programming, and security tools;
 
 
 ## Tecnologias:
