@@ -12,6 +12,8 @@
     <img aling="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs">
     <img aling="center" src="https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python.js&logoColor=white" alt="Python">
     <img aling="center" src="https://img.shields.io/badge/Zabbix-43853D?style=for-the-badge&logo=zabbix.js&logoColor=white" alt="Zabbix">
+    <img aling="center" src="https://img.shields.io/badge/Kubernetes-43853D?style=for-the-badge&logo=kubernetes.js&logoColor=white" alt="Kubernetes">
+    <img aling="center" src="https://img.shields.io/badge/Docker-43853D?style=for-the-badge&logo=docker.js&logoColor=white" alt="Docker">
 </div>
 
 ## Contatos:
