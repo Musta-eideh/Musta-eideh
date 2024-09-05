@@ -1,13 +1,8 @@
-<h1 align="left">Seja bem vindo(a).<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Eu sou o Mustafa Eideh</h1>
-
-<p>Muito prazer, seja bem vindo(a), meu nome é Mustafa Musa Hussein Eideh, tenho 21 anos e estou cursando a faculdade de Ciência da Computação, cada dia mais estudo sobre Automatizações de Infraestrutura, princípios de segurança, Infraestrutura como código, Cloud Computing (com foco em AWS e GCP), ferramentas de monitoramento como Zabbix, Grafana e Prometheus e como linguagem Python. Busco ter amplo acesso aos meus sistemas e trazer novas aplicações com bastante estudo e dedicação, afim de obter diversos conhecimentos na área de DevSecOps futuramente.</p>
-
 - 🔥  Computer Science Student;
 
 - 🔭 Study at Cruzeiro do Sul;
 
 - ▶️ I enjoy learning about analytics, programming, and security tools;
-
 
 ## Tecnologias:
 <div style="display: inline_block">
