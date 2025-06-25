@@ -1,4 +1,5 @@
-[![Musta-eideh GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Musta-eideh&theme=tokyo-night&area=true&hide_border=true&line=00cfcf&point=ffffff&color=ffffff&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Perfil GitHub 3D -->
+[![Musta-eideh GitHub Profile3D](https://github-profile3d.vercel.app/api/profile?username=Musta-eideh&theme=github-dark)](https://github-profile3d.vercel.app)
 
 ---
 
@@ -6,6 +7,12 @@
 - 🎓 Estudante de Ciência da Computação  
 - 🎯 Universidade Cruzeiro do Sul  
 - ⚙️ Interessado em DevOps, Segurança, Monitoramento e Programação  
+
+---
+
+### 📈 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Musta-eideh&theme=tokyonight&hide_border=true&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musta-eideh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10)
 
 ---
 
