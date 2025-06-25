@@ -1,8 +1,3 @@
-<!-- Perfil GitHub 3D -->
-[![Musta-eideh GitHub Profile3D](https://github-profile3d.vercel.app/api/profile?username=Musta-eideh&theme=github-dark)](https://github-profile3d.vercel.app)
-
----
-
 ### 🔥 Sobre Mim
 - 🎓 Estudante de Ciência da Computação  
 - 🎯 Universidade Cruzeiro do Sul  
@@ -12,7 +7,7 @@
 
 ### 📈 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Musta-eideh&theme=tokyonight&hide_border=true&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musta-eideh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10)
+
 
 ---
 
@@ -29,4 +24,4 @@
 ---
 
 ### 📬 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-eideh-b853581b4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-eideh/)
