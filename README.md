@@ -7,7 +7,7 @@
 
 ### 📈 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Musta-eideh&theme=tokyonight&hide_border=true&border_radius=10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-eideh/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musta-eideh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10)
 
 ---
 
