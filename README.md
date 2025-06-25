@@ -1,13 +1,13 @@
+### 📈 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Musta-eideh&theme=tokyonight&hide_border=true&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musta-eideh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10)
+
+---
+
 ### 🔥 Sobre Mim
 - 🎓 Estudante de Ciência da Computação  
 - 🎯 Universidade Cruzeiro do Sul  
 - ⚙️ Interessado em DevOps, Segurança, Monitoramento e Programação  
-
----
-
-### 📈 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Musta-eideh&theme=tokyonight&hide_border=true&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musta-eideh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10)
 
 ---
 
